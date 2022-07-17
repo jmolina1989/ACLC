@@ -90,6 +90,10 @@
     text-align: center;
   }
 
+  h1 {
+    user-select: none;
+  }
+    
   img {
     width: 250px;
     border-radius: 2rem;
